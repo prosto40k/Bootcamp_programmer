@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\chain\\OneDrive\\Рабочий стол\\У\\Geekbr\\git_control\\NNL\\bootcamp_programmer\\lesson_6_Quick_sorting\\lesson_6_Quick_sorting.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\chain\\OneDrive\\Рабочий стол\\У\\Geekbr\\git_control\\NNL\\bootcamp_programmer\\lesson_6_Quick_sorting\\lesson_6_Quick_sorting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chain\\OneDrive\\Рабочий стол\\У\\Geekbr\\git_control\\NNL\\bootcamp_programmer\\lesson_6_Quick_sorting\\lesson_6_Quick_sorting.csproj",
+        "projectName": "lesson_6_Quick_sorting",
+        "projectPath": "C:\\Users\\chain\\OneDrive\\Рабочий стол\\У\\Geekbr\\git_control\\NNL\\bootcamp_programmer\\lesson_6_Quick_sorting\\lesson_6_Quick_sorting.csproj",
+        "packagesPath": "C:\\Users\\chain\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chain\\OneDrive\\Рабочий стол\\У\\Geekbr\\git_control\\NNL\\bootcamp_programmer\\lesson_6_Quick_sorting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chain\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\chain\OneDrive\Рабочий стол\У\Geekbr\git_control\NNL\bootcamp_programmer\lesson_2\obj\Debug\net6.0\lesson_2.csproj.AssemblyReference.cache
+C:\Users\chain\OneDrive\Рабочий стол\У\Geekbr\git_control\NNL\bootcamp_programmer\lesson_2\obj\Debug\net6.0\lesson_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chain\OneDrive\Рабочий стол\У\Geekbr\git_control\NNL\bootcamp_programmer\lesson_2\obj\Debug\net6.0\lesson_2.AssemblyInfoInputs.cache
+C:\Users\chain\OneDrive\Рабочий стол\У\Geekbr\git_control\NNL\bootcamp_programmer\lesson_2\obj\Debug\net6.0\lesson_2.AssemblyInfo.cs
+C:\Users\chain\OneDrive\Рабочий стол\У\Geekbr\git_control\NNL\bootcamp_programmer\lesson_2\obj\Debug\net6.0\lesson_2.csproj.CoreCompileInputs.cache
+C:\Users\chain\OneDrive\Рабочий стол\У\Geekbr\git_control\NNL\bootcamp_programmer\lesson_2\bin\Debug\net6.0\lesson_2.exe
+C:\Users\chain\OneDrive\Рабочий стол\У\Geekbr\git_control\NNL\bootcamp_programmer\lesson_2\bin\Debug\net6.0\lesson_2.deps.json
+C:\Users\chain\OneDrive\Рабочий стол\У\Geekbr\git_control\NNL\bootcamp_programmer\lesson_2\bin\Debug\net6.0\lesson_2.runtimeconfig.json
+C:\Users\chain\OneDrive\Рабочий стол\У\Geekbr\git_control\NNL\bootcamp_programmer\lesson_2\bin\Debug\net6.0\lesson_2.dll
+C:\Users\chain\OneDrive\Рабочий стол\У\Geekbr\git_control\NNL\bootcamp_programmer\lesson_2\bin\Debug\net6.0\lesson_2.pdb
+C:\Users\chain\OneDrive\Рабочий стол\У\Geekbr\git_control\NNL\bootcamp_programmer\lesson_2\obj\Debug\net6.0\lesson_2.dll
+C:\Users\chain\OneDrive\Рабочий стол\У\Geekbr\git_control\NNL\bootcamp_programmer\lesson_2\obj\Debug\net6.0\refint\lesson_2.dll
+C:\Users\chain\OneDrive\Рабочий стол\У\Geekbr\git_control\NNL\bootcamp_programmer\lesson_2\obj\Debug\net6.0\lesson_2.pdb
+C:\Users\chain\OneDrive\Рабочий стол\У\Geekbr\git_control\NNL\bootcamp_programmer\lesson_2\obj\Debug\net6.0\lesson_2.genruntimeconfig.cache
+C:\Users\chain\OneDrive\Рабочий стол\У\Geekbr\git_control\NNL\bootcamp_programmer\lesson_2\obj\Debug\net6.0\ref\lesson_2.dll
